@@ -42,7 +42,7 @@ window.CONTENT.fr = {
     typingPrefix: "Junior",
     typing: ["Ingénieure DevOps", "Cloud Engineer (AWS)", "Administratrice systèmes", "Ingénieure CI/CD", "Développeuse Python"],
     lede: "Ingénieure IT junior orientée <b>DevOps et Cloud</b>, avec une expérience concrète en automatisation, conteneurisation (Docker, Kubernetes) et déploiement d'infrastructures sur AWS. À l'aise en scripting (Python, PowerShell, Bash) et en CI/CD (Git, Jenkins).",
-    where: "France — Cheffe de projet IT / Administratrice support (alternance) chez <b>LNA Santé</b>, Nantes, depuis 2024.",
+    where: "France — Cheffe de projet IT / Administratrice support (alternance) chez <b>LNA Santé</b>, Paris, depuis 2024.",
     photoAlt: "Portrait de Zineb TAHIR",
     actions: [
       { label: "Me contacter", href: "#contact", icon: "rocket", style: "primary" },
@@ -67,7 +67,7 @@ window.CONTENT.fr = {
     tagline: "Qui je suis et comment je travaille",
     paragraphs: [
       "Je suis une <b>ingénieure IT junior</b> orientée <b>DevOps et Cloud</b>, avec une expérience concrète en automatisation, conteneurisation (Docker, Kubernetes) et déploiement d'infrastructures sur AWS (EC2, Lambda, S3, API Gateway).",
-      "Depuis 2024, je suis <b>Cheffe de projet IT / Administratrice support</b> en alternance chez <b>LNA Santé</b> à Nantes, où j'automatise l'audit et le reporting de conformité sur un parc d'environ 5 000 postes, je mets en place la supervision multi-sites et j'assure l'administration système N2/N3.",
+      "Depuis 2024, je suis <b>Cheffe de projet IT / Administratrice support</b> en alternance chez <b>LNA Santé</b> à Paris, où j'automatise l'audit et le reporting de conformité sur un parc d'environ 5 000 postes, je mets en place la supervision multi-sites et j'assure l'administration système N2/N3.",
       "À l'aise en scripting (Python, PowerShell, Bash) et en CI/CD (Git, Jenkins), je cherche à approfondir la mise en place de pipelines et d'infrastructures cloud scalables, dans une logique d'industrialisation et de fiabilisation des systèmes.",
       "Je prépare actuellement un <b>Master Réseaux & Télécommunications</b> (développement d'applications et sécurité) à l'Université de Reims Champagne-Ardenne."
     ],
@@ -102,7 +102,7 @@ window.CONTENT.fr = {
         role: "Cheffe de projet IT / Administratrice support",
         org: "LNA Santé",
         short: "Cheffe de projet / Admin support",
-        place: "Nantes, France",
+        place: "Paris, France",
         start: "2024-09",
         end: null,
         period: "09/2024 – présent",
@@ -141,7 +141,7 @@ window.CONTENT.fr = {
         role: "Cheffe de projet IT (stage de fin d'études)",
         org: "LNA Santé",
         short: "Cheffe de projet IT",
-        place: "Nantes, France",
+        place: "Paris, France",
         start: "2024-03",
         end: "2024-09",
         period: "03/2024 – 09/2024 (6 mois)",
@@ -448,7 +448,7 @@ window.CONTENT.fr = {
     lead: "Ouverte aux opportunités DevOps, cloud et systèmes — écrivez-moi, ou retrouvez-moi sur LinkedIn et GitHub.",
     email: "zineb.tahirr@hotmail.com",
     items: [
-      { label: "Localisation", value: "Nantes, France", icon: "pin" },
+      { label: "Localisation", value: "Paris, France", icon: "pin" },
       { label: "E-mail", value: "zineb.tahirr@hotmail.com", href: "mailto:zineb.tahirr@hotmail.com", icon: "mail" },
       { label: "Téléphone", value: "(+33) 7 61 89 27 01", href: "tel:+33761892701", icon: "phone" },
       { label: "LinkedIn", value: "linkedin.com/in/z-tahir", href: "https://www.linkedin.com/in/z-tahir", external: true, icon: "linkedin" },

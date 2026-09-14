@@ -42,7 +42,7 @@ window.CONTENT.en = {
     typingPrefix: "Junior",
     typing: ["DevOps Engineer", "Cloud Engineer (AWS)", "Systems Administrator", "CI/CD Engineer", "Python Developer"],
     lede: "Junior IT engineer focused on <b>DevOps and Cloud</b>, with hands-on experience in automation, containerisation (Docker, Kubernetes) and deploying infrastructure on AWS. Comfortable with scripting (Python, PowerShell, Bash) and CI/CD (Git, Jenkins).",
-    where: "France — IT Project Manager / Support Administrator (work-study) at <b>LNA Santé</b>, Nantes, since 2024.",
+    where: "France — IT Project Manager / Support Administrator (work-study) at <b>LNA Santé</b>, Paris, since 2024.",
     photoAlt: "Portrait of Zineb TAHIR",
     actions: [
       { label: "Let's connect", href: "#contact", icon: "rocket", style: "primary" },
@@ -67,7 +67,7 @@ window.CONTENT.en = {
     tagline: "Who I am and how I work",
     paragraphs: [
       "I am a <b>junior IT engineer</b> oriented towards <b>DevOps and Cloud</b>, with concrete experience in automation, containerisation (Docker, Kubernetes) and deploying infrastructure on AWS (EC2, Lambda, S3, API Gateway).",
-      "Since 2024 I work as an <b>IT Project Manager / Support Administrator</b> on a work-study contract at <b>LNA Santé</b> in Nantes, where I automate audit and compliance reporting over a fleet of about 5 000 workstations, set up multi-site supervision, and handle N2/N3 system administration.",
+      "Since 2024 I work as an <b>IT Project Manager / Support Administrator</b> on a work-study contract at <b>LNA Santé</b> in Paris, where I automate audit and compliance reporting over a fleet of about 5 000 workstations, set up multi-site supervision, and handle N2/N3 system administration.",
       "I am comfortable with scripting (Python, PowerShell, Bash) and CI/CD (Git, Jenkins), and I want to deepen my practice of building scalable cloud pipelines and infrastructure, with a focus on industrialising and hardening systems.",
       "I am currently completing a <b>Master's in Networks & Telecommunications</b> (application development and security) at Université de Reims Champagne-Ardenne."
     ],
@@ -102,7 +102,7 @@ window.CONTENT.en = {
         role: "IT Project Manager / Support Administrator",
         org: "LNA Santé",
         short: "IT PM / Support Admin",
-        place: "Nantes, France",
+        place: "Paris, France",
         start: "2024-09",
         end: null,
         period: "09/2024 – Present",
@@ -141,7 +141,7 @@ window.CONTENT.en = {
         role: "IT Project Manager (end-of-degree internship)",
         org: "LNA Santé",
         short: "IT Project Manager",
-        place: "Nantes, France",
+        place: "Paris, France",
         start: "2024-03",
         end: "2024-09",
         period: "03/2024 – 09/2024 (6 months)",
@@ -448,7 +448,7 @@ window.CONTENT.en = {
     lead: "Open to DevOps, cloud and systems opportunities — write to me, or find me on LinkedIn and GitHub.",
     email: "zineb.tahirr@hotmail.com",
     items: [
-      { label: "Location", value: "Nantes, France", icon: "pin" },
+      { label: "Location", value: "Paris, France", icon: "pin" },
       { label: "Email", value: "zineb.tahirr@hotmail.com", href: "mailto:zineb.tahirr@hotmail.com", icon: "mail" },
       { label: "Phone", value: "(+33) 7 61 89 27 01", href: "tel:+33761892701", icon: "phone" },
       { label: "LinkedIn", value: "linkedin.com/in/z-tahir", href: "https://www.linkedin.com/in/z-tahir", external: true, icon: "linkedin" },
