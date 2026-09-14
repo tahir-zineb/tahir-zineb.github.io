@@ -1,7 +1,7 @@
 {
-  "name": "mohammed-elkhou-portfolio",
-  "version": "3.0.0",
-  "description": "Portfolio website of Mohammed EL-KHOU — Data/Cloud Engineer (AWS), Big Data/Python developer, R&D ML/AI",
+  "name": "zineb-tahir-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website of Zineb TAHIR — Junior DevOps & Systems Engineer",
   "main": "index.html",
   "scripts": {
     "start": "python -m http.server 3000",
@@ -21,19 +21,11 @@
     "dark-theme"
   ],
   "author": {
-    "name": "Mohammed EL-KHOU",
-    "email": "m.elkhou@hotmail.com",
-    "url": "https://github.com/m-elkhou"
+    "name": "Zineb TAHIR",
+    "email": "zineb.tahirr@hotmail.com",
+    "url": "https://github.com/tahir-zineb"
   },
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/m-elkhou/m-elkhou.github.io.git"
-  },
-  "homepage": "https://m-elkhou.github.io",
-  "bugs": {
-    "url": "https://github.com/m-elkhou/m-elkhou.github.io/issues"
-  },
   "browserslist": [
     "> 1%",
     "last 2 versions",
